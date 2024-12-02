@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yong Cao, Associate Professor at Shanghai Jiao Tong University.
-
-My research interest includes AI for Fluid Mechanics, Computational Fluid Mechanics, and Wind Engineering & Energy. I have published more than 30 papers at the top international journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Yong Cao, Associate Professor at Shanghai Jiao Tong University. My research interest includes AI for Fluid Mechanics, Computational Fluid Mechanics, and Wind Engineering & Energy. I have published more than 30 papers at the top international journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -63,3 +61,5 @@ My research interest includes AI for Fluid Mechanics, Computational Fluid Mechan
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# Teaching
