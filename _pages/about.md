@@ -38,7 +38,8 @@ Yong Cao, Associate Professor at Shanghai Jiao Tong University. My research inte
 </div>
 </div>
 
-- [Deep learning reconstruction of high-Reynolds-number turbulent flow field around a square cylinder based on limited sensors](10.1016/j.oceaneng.2024.117857), Rui Li, Baiyang Song, Yaoran Chen, Xiaowei Jin, Dai Zhou, Zhaolong Han, Wen-Li Chen and **Yong Cao***, **Ocean Engineering, 2023**, 304, 117857.
+- [Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill](10.1016/j.jweia.2024.105910). Shi, Y., Tao, T., Wu, H., Chen, Y., Han, Z., Zhou, D., Chen, W. L., **Cao, Y.***, **Journal of Wind Engineering and Industrial Aerodynamics, 2024**, 254, 105910.
+- [Deep learning reconstruction of high-Reynolds-number turbulent flow field around a square cylinder based on limited sensors](https://doi.org/10.1016/j.oceaneng.2024.117857), Rui Li, Baiyang Song, Yaoran Chen, Xiaowei Jin, Dai Zhou, Zhaolong Han, Wen-Li Chen and **Yong Cao***, **Ocean Engineering, 2024**, 304, 117857.
 - 
 
 # 🎖 Honors and Awards
