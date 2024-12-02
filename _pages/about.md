@@ -43,8 +43,15 @@ My research interest includes AI for Fluid Mechanics, Computational Fluid Mechan
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* JAWE Award (Excellence in Research Paper), Japan Association for Wind Engineering
+- *2023* Excellent Paper Award for Young Scientist, The 2nd Chinese Conference of Aerodynamics
+- *2022* Spotlight in Advances in Engineering
+- *2021* Oversea High-level Talent of Shanghai
+- *2021* Sailing Program of Shanghai
+- *2020* Cover Paper of Physics of Fluids, First-authored Paper
+- *2019* Best CFD Picture, The Japan Society of Fluid Mechanics
+- *2018* Outstanding Reviewer, Journal of Fluids and Structures, Elsevier
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
