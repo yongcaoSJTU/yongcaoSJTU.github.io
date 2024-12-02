@@ -38,7 +38,7 @@ Yong Cao, Associate Professor at Shanghai Jiao Tong University. My research inte
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Deep learning reconstruction of high-Reynolds-number turbulent flow field around a square cylinder based on limited sensors](10.1016/j.oceaneng.2024.117857), Rui Li, Baiyang Song, Yaoran Chen, Xiaowei Jin, Dai Zhou, Zhaolong Han, Wen-Li Chen and Yong Cao, **Ocean Engineering, 2023**
 
 # 🎖 Honors and Awards
 - *2023* JAWE Award (Excellence in Research Paper), Japan Association for Wind Engineering
@@ -62,4 +62,4 @@ Yong Cao, Associate Professor at Shanghai Jiao Tong University. My research inte
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-# Teaching
+# 📖 Teaching
