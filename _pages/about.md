@@ -51,7 +51,7 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - [Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks](https://doi.org/10.1016/j.oceaneng.2023.113947), Yaoran Chen, Dan Zhang, Xiaowei Li, Yan Peng, Xiangyu Zhang, Zhaolong Han, **Yong Cao** and Zhikun Dong, _Ocean Engineering_, 2023, 273, 113947.
 - [On the distributed blowing control of flow around a square cylinder at a low Reynolds number](https://doi.org/10.1016/j.oceaneng.2023.115240), Yize Ran, Wen-Li Chen, **Yong Cao**, Hui Li and Donglai Gao, _Ocean Engineering_, 2023, 285, 115240.
 - [Peak suction on a wall-mounted square cylinder by conditional POD: Effects of incident angles](https://doi.org/10.1016/j.jweia.2023.105460), **Yong Cao**, Weizhi Li, Tao Tao, Shiyu Wang and Dai Zhou, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 239, 105460.
-- [Large-eddy simulation of separated turbulent flows over a three-dimensional hill using WRF and OpenFOAM](https://doi.org/10.1016/j.jweia.2023.105357), **Yong Cao**, Tao Tao, Yujiang Shi, Shuyang Cao, Dai Zhou and Wen-Li Chen, _ Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 236, 105357.
+- [Large-eddy simulation of separated turbulent flows over a three-dimensional hill using WRF and OpenFOAM](https://doi.org/10.1016/j.jweia.2023.105357), **Yong Cao**, Tao Tao, Yujiang Shi, Shuyang Cao, Dai Zhou and Wen-Li Chen, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 236, 105357.
 - [Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis](https://doi.org/10.1016/j.jweia.2022.105284), Limin Kuang, Rui Zhang, Jie Su, Yixiao Shao, Kai Zhang, Yaoran Chen, Zhihao Zhang, Yu Tu, Dai Zhou, Zhaolong Han, Yan Bao and **Yong Cao**, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 233, 105284.
 
 [**2022**]
@@ -64,7 +64,20 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - [The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method](https://doi.org/10.1016/j.energy.2021.122456), Zhikun Dong, Yaoran Chen, Dai Zhou, Jie Su, Zhaolong Han, **Yong Cao**, Yan Bao, Feng Zhao, Rui Wang, Yongsheng Zhao and Yuwang Xu, _Energy_, 2022, 239, 122456.
 - [Direct numerical simulation of flow over a cylinder immersed in the grid-generated turbulence](https://doi.org/10.1063/5.0072730), Baiyang Song, Huan Ping, Hongbo Zhu, Dai Zhou, Yan Bao, **Yong Cao** and Zhaolong Han, _Physics of Fluids_, 2022, 34(1), 015109.
 
-[**2015--2021**]
+[**2021 and before**]
+- [Large-eddy simulations of flow past a circular cylinder near a free surface](https://doi.org/10.1063/5.0068193), Feng Zhao, Rui Wang, Hongbo Zhu, Huang Ping, Yan Bao, Dai Zhou, **Yong Cao** and Hongyu Cui, _Physics of Fluids_, 2021, 33 (11), 115108.
+- [Comparison of hexahedral, tetrahedral and polyhedral cells for reproducing the wind field around an isolated building by LES](https://doi.org/10.1016/j.buildenv.2021.107717), Wei Wang, **Yong Cao** and Tsubasa Okaze, _Building and Environment_, 2021, 195, 107717.
+- [Low-frequency unsteadiness in the flow around a square cylinder with critical angle of 14° at the Reynolds number of 2.2×104](https://doi.org/10.1016/j.jfluidstructs.2020.103087), **Yong Cao**, Tetsuro Tamura, _Journal of Fluids and Structures_, 2020, 97, 103087.
+- [Large-eddy simulation study of Reynolds number effects on the flow around a wall-mounted hemisphere in a boundary layer](https://doi.org/10.1063/1.5142371), **Yong Cao**, Tetsuro Tamura, _Physics of Fluids_, 2020, 32, 025109. (Cover Paper & Featured)
+- [Spanwise resolution requirements for the simulation of high-Reynolds-number flows past a square cylinder](https://doi.org/10.1016/j.compfluid.2019.104320), **Yong Cao**, Tetsuro Tamura and Hidenori Kawai, _Computers & Fluids_, 2020, 196, 104320.
+- [Investigation of wall pressures and surface flow patterns on a wall-mounted square cylinder using very high-resolution Cartesian mesh](https://doi.org/10.1016/j.jweia.2019.02.013), **Yong Cao**, Tetsuro Tamura and Hidenori Kawai, _Journal of Wind Engineering and Industrial Aerodynamics_, 2019, 188, 1-18.
+- [Aerodynamic characteristics of a rounded-corner square cylinder in shear flow at subcritical and supercritical Reynolds numbers](https://doi.org/10.1016/j.jfluidstructs.2018.07.012), **Yong Cao**, Tetsuro Tamura, _Journal of Fluids and Structures_, 2018, 82, 473-491.
+- [Shear effects on flows past a square cylinder with rounded corners at Re= 2.2× 104](https://doi.org/10.1016/j.jweia.2017.12.025), **Yong Cao**, Tetsuro Tamura, _Journal of Wind Engineering and Industrial Aerodynamics_, 2018, 174, 119-132.
+- [Supercritical flows past a square cylinder with rounded corners](https://doi.org/10.1063/1.4998739), **Yong Cao**, Tetsuro Tamura, _Physics of Fluids_, 2017, 29, 085110.
+- [Large-eddy simulations of flow past a square cylinder using structured and unstructured grids](https://doi.org/10.1016/j.compfluid.2016.07.013), **Yong Cao**, Tetsuro Tamura, _Computers & Fluids_, 2016, 137, 36-54.
+- [Numerical investigation of steady suction control of flow around a circular cylinder](https://doi.org/10.1016/j.jfluidstructs.2015.09.002), Wen-Li Chen, **Yong Cao**, Hui Li, Hui Hu, _Journal of Fluids and Structures_, 2015, 59, 22-36.
+- [Numerical investigations into effects of three-dimensional wake patterns on unsteady aerodynamic characteristics of a circular cylinder at Re= 1.3× 105](https://doi.org/10.1016/j.jfluidstructs.2015.10.001), **Yong Cao**, Tetsuro Tamura, _Journal of Fluids and Structures_, 2015, 59, 351-369.
+
 
 
 # 🎖 Honors and Awards
