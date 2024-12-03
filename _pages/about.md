@@ -137,7 +137,7 @@ Thesis: Numerical study on flow control of flow around a circular cylinder using
 - Yong Cao, Tetsuro Tamura and Dai Zhou, "Analyses of local severe wind suction on a square-section cylinder by high-resolution simulation and conditional POD method," The 15th World Congress on Computational Mechanics (WCCM-XV) & 8th Asian Pacific Congress on Computational Mechanics (APCOM-VIII). Virtual, July 31-August 5, 2022.  (keynote in minisymposia)
 - Yong Cao, Zhaolong Han and Dai Zhou, "Key points and recent advances of offshore vertical-axis wind turbine," The 2021 Workshop on Offshore Renewable Energy, Dalian, July 11, 2021. (invited speech)
 
-# 💻Services (Professional)
+# 💻 Professional Services
 - *2024.11 - now*, Managing Guest Editor of **Building and Environment**, with Dayi Lai, Hideki Kikumoto and Hao Zheng, Special Issue on "Advancements of AI Technology in the Built Environment"
 - *2024.05 - now*, Topical Advisory Panel for **Mathematics**
 - *2022.05 - 2023.12*, Guest Editor of **Atmosphere**, with Y. C. He and Y. H. He, Special Issue on "Wind Gusts: Observations, Processes, and Predictions"
