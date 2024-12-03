@@ -44,7 +44,18 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - [Wake suppression of a cylinder immersed in turbulence using rotating rods](https://doi.org/10.1063/5.0177306). Baiyang Song, Yan Bao, Kai Zhang, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 36 (1), 015117.
 
 [**2023**]
-- [Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement](https://doi.org/10.1016/j.apenergy.2023.121850), Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, Jiaqi Wang, Yan Bao, **Yong Cao** and Yijie Liu, _Applied Energy_, 2023, 351, 121850.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/wind-turbine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement](https://doi.org/10.1016/j.apenergy.2023.121850),  _Applied Energy_, 2023, 351, 121850.
+
+Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, Jiaqi Wang, Yan Bao, **Yong Cao** and Yijie Liu
+
+[**Introduction**]
+- Wake interference between wind turbines potentially decreases the power output of offshore wind farms. This study utilized high-fidelity computational fluid dynamics simulations, and systematically evaluated the effectiveness of vertically staggered arrangement in mitigating wake interference between offshore VAWTs.
+</div>
+</div>
+
 - [Significant wave height prediction through artificial intelligent mode decomposition for wave energy management](https://doi.org/10.1016/j.egyai.2023.100257), Yaoran Chen, Dan Zhang, Xiaowei Li, Yan Peng, Chuhan Wu, Huayan Pu, Dai Zhou, **Yong Cao** and Jiujun Zhang, _Energy and AI_, 2023, 14, 100257.
 - [WindFix: Harnessing the power of self-supervised learning for versatile imputation of offshore wind speed time series](https://doi.org/10.1016/j.energy.2023.128995), Yaoran Chen, Dan Zhang, Leilei Cao, Candong Cai, Limin Kuang, Yan Peng, Huayan Pu, Chuhan Wu, Dai Zhou and Yong Cao, _Energy_, 2024, 128995.
 - [Sparse-measurement-based peak wind pressure evaluation by super-resolution convolutional neural networks](https://doi.org/10.1016/j.jweia.2023.105574), Haokai Wu, Yaoran Chen, Peixing Xie, Dai Zhou, Tetsuro Tamura, Kai Zhang, Shuyang Cao and **Yong Cao***, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 242, 105574.
@@ -55,12 +66,23 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - [Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis](https://doi.org/10.1016/j.jweia.2022.105284), Limin Kuang, Rui Zhang, Jie Su, Yixiao Shao, Kai Zhang, Yaoran Chen, Zhihao Zhang, Yu Tu, Dai Zhou, Zhaolong Han, Yan Bao and **Yong Cao**, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 233, 105284.
 
 [**2022**]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2022</div><img src='images/wall-mounted_square.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Topological description of near-wall flows around a surface-mounted square cylinder at high Reynolds numbers](https://doi.org/10.1017/jfm.2021.1043), _Journal of Fluid Mechanics_, 2022, 933, A39.
+
+**Yong Cao**, Tetsuro Tamura, Dai Zhou, Yan Bao and Zhaolong Han
+
+[**Introduction**]
+- This study topologically describes near-wall flows around a surface-mounted cylinder at a high Reynolds number and in a very thick boundary layer, which were partially measured or technically approximated from the literature. The high-resolution simulations and critical-point theory are applied for complete and rational flow construction.
+</div>
+</div>
+
 - [Wake dynamics and hydrodynamic forces of a circular cylinder beneath a free surface](https://doi.org/10.1016/j.oceaneng.2022.112669), Feng Zhao, Rui Wang, Hongbo Zhu, **Yong Cao**, Yan Bao, Dai Zhou and Zhaolong Han, _Ocean Engineering_, 2022, 265, 112669.
 - [Vortex-induced vibrations of two rigidly coupled circular cylinders in tandem arrangement](https://doi.org/10.1016/j.oceaneng.2022.112316), Huan Ping, **Yong Cao**, Kai Zhang, Zhaolong Han, Dai Zhou, Hongbo Zhu and Yan Bao, _Ocean Engineering_, 2022, 263, 112316.
 - [Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement](https://doi.org/10.1016/j.oceaneng.2022.111385), Yaoran Chen, Limin Kuang, Jie Su, Dai Zhou, **Yong Cao**, Hao Chen, Zhaolong Han, Yongsheng Zhao and Shixiao Fu, _Ocean Engineering_, 2022, 254, 111385.
 - [Investigation of local severe suction on the side walls of a high-rise building by standard, spectral and conditional POD](https://doi.org/10.1016/j.buildenv.2022.109047), **Yong Cao**, Xu Liu, Dai Zhou and Hehe Ren, _Building and Environment_, 2022, 217, 109047.
 - [Wind peak pressures on a square-section cylinder: Flow mechanism and standard/conditional POD analyses](https://doi.org/10.1016/j.jweia.2022.104918), **Yong Cao**, Huan Ping, Tetsuro Tamura and Dai Zhou, _Journal of Wind Engineering and Industrial Aerodynamics_, 2022, 222, 104918.
-- [Topological description of near-wall flows around a surface-mounted square cylinder at high Reynolds numbers](https://doi.org/10.1017/jfm.2021.1043), **Yong Cao**, Tetsuro Tamura, Dai Zhou, Yan Bao and Zhaolong Han, _Journal of Fluid Mechanics_, 2022, 933, A39.
 - [The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method](https://doi.org/10.1016/j.energy.2021.122456), Zhikun Dong, Yaoran Chen, Dai Zhou, Jie Su, Zhaolong Han, **Yong Cao**, Yan Bao, Feng Zhao, Rui Wang, Yongsheng Zhao and Yuwang Xu, _Energy_, 2022, 239, 122456.
 - [Direct numerical simulation of flow over a cylinder immersed in the grid-generated turbulence](https://doi.org/10.1063/5.0072730), Baiyang Song, Huan Ping, Hongbo Zhu, Dai Zhou, Yan Bao, **Yong Cao** and Zhaolong Han, _Physics of Fluids_, 2022, 34(1), 015109.
 
@@ -77,7 +99,6 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - [Large-eddy simulations of flow past a square cylinder using structured and unstructured grids](https://doi.org/10.1016/j.compfluid.2016.07.013), **Yong Cao**, Tetsuro Tamura, _Computers & Fluids_, 2016, 137, 36-54.
 - [Numerical investigation of steady suction control of flow around a circular cylinder](https://doi.org/10.1016/j.jfluidstructs.2015.09.002), Wen-Li Chen, **Yong Cao**, Hui Li, Hui Hu, _Journal of Fluids and Structures_, 2015, 59, 22-36.
 - [Numerical investigations into effects of three-dimensional wake patterns on unsteady aerodynamic characteristics of a circular cylinder at Re= 1.3× 105](https://doi.org/10.1016/j.jfluidstructs.2015.10.001), **Yong Cao**, Tetsuro Tamura, _Journal of Fluids and Structures_, 2015, 59, 351-369.
-
 
 
 # 🎖 Honors and Awards
