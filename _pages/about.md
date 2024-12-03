@@ -143,7 +143,7 @@ Thesis: Numerical study on flow control of flow around a circular cylinder using
 - *2024.05 - now*, Topical Advisory Panel for **Mathematics**
 - *2022.05 - 2023.12*, Guest Editor of **Atmosphere**, with Y. C. He and Y. H. He, Special Issue on "Wind Gusts: Observations, Processes, and Predictions"
 - *2021.11 - 2023.08*, Guest Editor of **Mathematics**, with S. J. Laima, X. W. Jin and H. H. Ren, Special issue on "Advanced Mathematical Modeling and Numerical Solutions in Applied Mechanics and Engineering"
-- *Referee (Papers)*
+- **Referee (Papers)**:
 _Applied Energy,
 Atmosphere,
 Building and Environment,
