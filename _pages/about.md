@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yong Cao, Associate Professor at Shanghai Jiao Tong University. My research interest includes AI for Fluid Mechanics, Computational Fluid Mechanics, and Wind Engineering & Energy. I have published more than 30 papers at the top international journals.
+Yong Cao is an Associate Professor at Shanghai Jiao Tong University, specializing in the application of Artificial Intelligence (AI) to fluid mechanics, computational fluid dynamics (CFD), and wind engineering & energy. My research focuses on the wind resistance of structures and cities during extreme climate events, such as typhoons, as well as wind energy prediction and utilization in both marine and terrain environments, all with the goal of contributing to a sustainable society.
 
+I am also open to and actively seek international collaborations to further expand the impact of my research and to address global challenges in the fields of energy and climate resilience.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Our work of generating small-scale turbulence is invited by Prof. George Karniadakis to give a speech at CRUNCH Seminar, Brown University.
