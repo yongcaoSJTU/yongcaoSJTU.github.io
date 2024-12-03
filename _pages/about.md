@@ -29,18 +29,22 @@ Yong Cao, Associate Professor at Shanghai Jiao Tong University. My research inte
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning](https://doi.org/10.1017/jfm.2024.521), _Journal of Fluid Mechanics_, 2024, 990, R1.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Introduction**]
+- This study proposed a new framework to generate the small-scale turbulence motions based on a generalized zero-shot transfer learning. 
 </div>
 </div>
 
-- [Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill](10.1016/j.jweia.2024.105910). Shi, Y., Tao, T., Wu, H., Chen, Y., Han, Z., Zhou, D., Chen, W. L., **Cao, Y.***, _Journal of Wind Engineering and Industrial Aerodynamics_, 2024, 254, 105910.
+
+- [Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill](https://doi.org/10.1016/j.jweia.2024.105910). Yujiang Shi, Tao Tao, Haokai Wu, Yaoran Chen, Zhaolong Han, Dai Zhou, Wenli Chen and **Yong Cao***, _Journal of Wind Engineering and Industrial Aerodynamics_, 2024, 254, 105910.
+- [A Physics-informed deep learning model to reconstruct turbulent wake from random sparse data](https://doi.org/10.1063/5.0212298). Peixing Xie, Rui Li, Yaoran Chen, Baiyang Song, Wenli Chen, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 2024, 36, 065145.
 - [Deep learning reconstruction of high-Reynolds-number turbulent flow field around a square cylinder based on limited sensors](https://doi.org/10.1016/j.oceaneng.2024.117857), Rui Li, Baiyang Song, Yaoran Chen, Xiaowei Jin, Dai Zhou, Zhaolong Han, Wen-Li Chen and **Yong Cao***, _Ocean Engineering_, 2024, 304, 117857.
-- 
+- [Wake suppression of a cylinder immersed in turbulence using rotating rods](https://doi.org/10.1063/5.0177306). Baiyang Song, Yan Bao, Kai Zhang, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 36 (1), 015117.
+
+
 
 # 🎖 Honors and Awards
 - *2023* JAWE Award (Excellence in Research Paper), Japan Association for Wind Engineering
