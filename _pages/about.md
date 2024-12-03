@@ -168,3 +168,10 @@ PNAS Nexus
 Wind and Structures_
 
 # 📖 Teaching
+- Autumn 2023, Engineering Management, Systems Engineering (G)
+- Spring 2023, Civil Engineering, Wind-resistant Safety of Engineering Structures (G)
+- Spring 2023, Architecture, Simulation Technology on Built Environment (G)
+- Spring 2023, Civil Engineering, Uncover Secret of Super Engineering Secret (U)
+- Spring 2022, Civil Engineering, Wind-resistant Safety of Engineering Structures (G)
+- Spring 2021, Civil Engineering, Wind-resistant Safety of Engineering Structures (G)
+Note: U/G = undergraduate/graduate courses
