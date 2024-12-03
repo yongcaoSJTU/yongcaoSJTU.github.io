@@ -26,7 +26,7 @@ Yong Cao, Associate Professor at Shanghai Jiao Tong University. My research inte
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2024</div><img src='images/small-scale_turbulence_generation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning](https://doi.org/10.1017/jfm.2024.521), _Journal of Fluid Mechanics_, 2024, 990, R1.
