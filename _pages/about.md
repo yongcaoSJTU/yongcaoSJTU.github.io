@@ -44,7 +44,7 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - [Wake suppression of a cylinder immersed in turbulence using rotating rods](https://doi.org/10.1063/5.0177306). Baiyang Song, Yan Bao, Kai Zhang, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 36 (1), 015117.
 
 [**2023**]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/wind-turbine.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/wind-turbine.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement](https://doi.org/10.1016/j.apenergy.2023.121850),  _Applied Energy_, 2023, 351, 121850.
@@ -66,7 +66,7 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, J
 - [Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis](https://doi.org/10.1016/j.jweia.2022.105284), Limin Kuang, Rui Zhang, Jie Su, Yixiao Shao, Kai Zhang, Yaoran Chen, Zhihao Zhang, Yu Tu, Dai Zhou, Zhaolong Han, Yan Bao and **Yong Cao**, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 233, 105284.
 
 [**2022**]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2022</div><img src='images/wall-mounted_square.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2022</div><img src='images/wall-mounted_square.png' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Topological description of near-wall flows around a surface-mounted square cylinder at high Reynolds numbers](https://doi.org/10.1017/jfm.2021.1043), _Journal of Fluid Mechanics_, 2022, 933, A39.
@@ -88,7 +88,7 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, J
 
 
 [**2021 and before**]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PoF 2020</div><img src='images/pof_cover.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PoF 2020</div><img src='images/pof_cover.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Large-eddy simulation study of Reynolds number effects on the flow around a wall-mounted hemisphere in a boundary layer](https://doi.org/10.1063/1.5142371), _Physics of Fluids_, 2020, 32, 025109. (Cover Paper & Featured)
@@ -132,8 +132,11 @@ Thesis: LES study of aerodynamics of two-dimensional bluff bodies in crossflow a
 Thesis: Numerical study on flow control of flow around a circular cylinder using steady suction method (advisor: Hui Li, Wen-Li Chen)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Haokai Wu, Yong Cao, "Generation of small-scale turbulence," CRUNCH Seminar, Brown University, November 22, 2024. (invited talk)
+- Yong Cao, "Intelligent generation method of wall turbulence in meso-micro scale model," The 13rd National Conference of Structural Design and Reliability, October 25-27, 2024. (invited speech)
+- Yong Cao, Dai Zhou, Zhaolong Han and Kai Zhang, "High-fidelity and intelligent simulation of wind fields and pressures on buildings," The 2023 International Workshop on The Numerical Simulation of Typhoons, Hanzhou, October 18, 2023. (invited speech)
+- Yong Cao, Tetsuro Tamura and Dai Zhou, "Analyses of local severe wind suction on a square-section cylinder by high-resolution simulation and conditional POD method," The 15th World Congress on Computational Mechanics (WCCM-XV) & 8th Asian Pacific Congress on Computational Mechanics (APCOM-VIII). Virtual, July 31-August 5, 2022.  (keynote in minisymposia)
+- Yong Cao, Zhaolong Han and Dai Zhou, "Key points and recent advances of offshore vertical-axis wind turbine," The 2021 Workshop on Offshore Renewable Energy, Dalian, July 11, 2021. (invited speech)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
