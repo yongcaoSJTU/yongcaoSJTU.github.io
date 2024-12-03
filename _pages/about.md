@@ -38,11 +38,22 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 </div>
 </div>
 
-
 - [Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill](https://doi.org/10.1016/j.jweia.2024.105910). Yujiang Shi, Tao Tao, Haokai Wu, Yaoran Chen, Zhaolong Han, Dai Zhou, Wenli Chen and **Yong Cao***, _Journal of Wind Engineering and Industrial Aerodynamics_, 2024, 254, 105910.
 - [A Physics-informed deep learning model to reconstruct turbulent wake from random sparse data](https://doi.org/10.1063/5.0212298). Peixing Xie, Rui Li, Yaoran Chen, Baiyang Song, Wenli Chen, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 2024, 36, 065145.
 - [Deep learning reconstruction of high-Reynolds-number turbulent flow field around a square cylinder based on limited sensors](https://doi.org/10.1016/j.oceaneng.2024.117857), Rui Li, Baiyang Song, Yaoran Chen, Xiaowei Jin, Dai Zhou, Zhaolong Han, Wen-Li Chen and **Yong Cao***, _Ocean Engineering_, 2024, 304, 117857.
 - [Wake suppression of a cylinder immersed in turbulence using rotating rods](https://doi.org/10.1063/5.0177306). Baiyang Song, Yan Bao, Kai Zhang, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 36 (1), 015117.
+-[Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement](https://doi.org/10.1016/j.apenergy.2023.121850), Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, Jiaqi Wang, Yan Bao, **Yong Cao** and Yijie Liu, _Applied Energy_, 2023, 351, 121850.
+-[Significant wave height prediction through artificial intelligent mode decomposition for wave energy management](https://doi.org/10.1016/j.egyai.2023.100257), Yaoran Chen, Dan Zhang, Xiaowei Li, Yan Peng, Chuhan Wu, Huayan Pu, Dai Zhou, **Yong Cao** and Jiujun Zhang, _Energy and AI_, 2023, 14, 100257.
+-[WindFix: Harnessing the power of self-supervised learning for versatile imputation of offshore wind speed time series](https://doi.org/10.1016/j.energy.2023.128995), Yaoran Chen, Dan Zhang, Leilei Cao, Candong Cai, Limin Kuang, Yan Peng, Huayan Pu, Chuhan Wu, Dai Zhou and Yong Cao, _Energy_, 2024, 128995.
+-[Sparse-measurement-based peak wind pressure evaluation by super-resolution convolutional neural networks](https://doi.org/10.1016/j.jweia.2023.105574), Haokai Wu, Yaoran Chen, Peixing Xie, Dai Zhou, Tetsuro Tamura, Kai Zhang, Shuyang Cao and **Yong Cao***, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 242, 105574.
+-[Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks](https://doi.org/10.1016/j.oceaneng.2023.113947), Yaoran Chen, Dan Zhang, Xiaowei Li, Yan Peng, Xiangyu Zhang, Zhaolong Han, **Yong Cao** and Zhikun Dong, _Ocean Engineering_, 2023, 273, 113947.
+-[On the distributed blowing control of flow around a square cylinder at a low Reynolds number](https://doi.org/10.1016/j.oceaneng.2023.115240), Yize Ran, Wen-Li Chen, **Yong Cao**, Hui Li and Donglai Gao, _Ocean Engineering_, 2023, 285, 115240.
+-[Peak suction on a wall-mounted square cylinder by conditional POD: Effects of incident angles](https://doi.org/10.1016/j.jweia.2023.105460), **Yong Cao**, Weizhi Li, Tao Tao, Shiyu Wang and Dai Zhou, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 239, 105460.
+-[Large-eddy simulation of separated turbulent flows over a three-dimensional hill using WRF and OpenFOAM](https://doi.org/10.1016/j.jweia.2023.105357), **Yong Cao**, Tao Tao, Yujiang Shi, Shuyang Cao, Dai Zhou and Wen-Li Chen, _ Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 236, 105357.
+-[Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis](https://doi.org/10.1016/j.jweia.2022.105284), Limin Kuang, Rui Zhang, Jie Su, Yixiao Shao, Kai Zhang, Yaoran Chen, Zhihao Zhang, Yu Tu, Dai Zhou, Zhaolong Han, Yan Bao and **Yong Cao**, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 233, 105284.
+
+
+
 
 
 
