@@ -139,7 +139,7 @@ Thesis: Numerical study on flow control of flow around a circular cylinder using
 - Yong Cao, Zhaolong Han and Dai Zhou, "Key points and recent advances of offshore vertical-axis wind turbine," The 2021 Workshop on Offshore Renewable Energy, Dalian, July 11, 2021. (invited speech)
 
 # 💻Services (Professional)
-- *2024, 11- now*, Managing Guest Editor of **Building and Environment**, with Dayi Lai, Hideki Kikumoto and Hao Zheng, Special Issue on "Advancements of AI Technology in the Built Environment"
+- *2024.11 - now*, Managing Guest Editor of **Building and Environment**, with Dayi Lai, Hideki Kikumoto and Hao Zheng, Special Issue on "Advancements of AI Technology in the Built Environment"
 - *2024.05 - now*, Topical Advisory Panel for **Mathematics**
 - *2022.05 - 2023.12*, Guest Editor of **Atmosphere**, with Y. C. He and Y. H. He, Special Issue on "Wind Gusts: Observations, Processes, and Predictions"
 - *2021.11 - 2023.08*, Guest Editor of **Mathematics**, with S. J. Laima, X. W. Jin and H. H. Ren, Special issue on "Advanced Mathematical Modeling and Numerical Solutions in Applied Mechanics and Engineering"
