@@ -86,11 +86,23 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, J
 - [The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method](https://doi.org/10.1016/j.energy.2021.122456), Zhikun Dong, Yaoran Chen, Dai Zhou, Jie Su, Zhaolong Han, **Yong Cao**, Yan Bao, Feng Zhao, Rui Wang, Yongsheng Zhao and Yuwang Xu, _Energy_, 2022, 239, 122456.
 - [Direct numerical simulation of flow over a cylinder immersed in the grid-generated turbulence](https://doi.org/10.1063/5.0072730), Baiyang Song, Huan Ping, Hongbo Zhu, Dai Zhou, Yan Bao, **Yong Cao** and Zhaolong Han, _Physics of Fluids_, 2022, 34(1), 015109.
 
+
 [**2021 and before**]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PoF 2020</div><img src='images/pof_cover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Large-eddy simulation study of Reynolds number effects on the flow around a wall-mounted hemisphere in a boundary layer](https://doi.org/10.1063/1.5142371), _Physics of Fluids_, 2020, 32, 025109. (Cover Paper & Featured)
+
+**Yong Cao**, Tetsuro Tamura
+
+[**Introduction**]
+- Large-eddy simulations were used to investigate unsteady flows around a wall-mounted hemisphere as the Reynolds number (Re, based on the diameter of the hemisphere D) increased from 7 × 104 to 7 × 105. Strong Re dependence was found to be present even for the flow around a wall-mounted obstacle after systematic examination of aerodynamic forces, local pressures, and flow structures. 
+</div>
+</div>
+
 - [Large-eddy simulations of flow past a circular cylinder near a free surface](https://doi.org/10.1063/5.0068193), Feng Zhao, Rui Wang, Hongbo Zhu, Huang Ping, Yan Bao, Dai Zhou, **Yong Cao** and Hongyu Cui, _Physics of Fluids_, 2021, 33 (11), 115108.
 - [Comparison of hexahedral, tetrahedral and polyhedral cells for reproducing the wind field around an isolated building by LES](https://doi.org/10.1016/j.buildenv.2021.107717), Wei Wang, **Yong Cao** and Tsubasa Okaze, _Building and Environment_, 2021, 195, 107717.
 - [Low-frequency unsteadiness in the flow around a square cylinder with critical angle of 14° at the Reynolds number of 2.2×104](https://doi.org/10.1016/j.jfluidstructs.2020.103087), **Yong Cao**, Tetsuro Tamura, _Journal of Fluids and Structures_, 2020, 97, 103087.
-- [Large-eddy simulation study of Reynolds number effects on the flow around a wall-mounted hemisphere in a boundary layer](https://doi.org/10.1063/1.5142371), **Yong Cao**, Tetsuro Tamura, _Physics of Fluids_, 2020, 32, 025109. (Cover Paper & Featured)
 - [Spanwise resolution requirements for the simulation of high-Reynolds-number flows past a square cylinder](https://doi.org/10.1016/j.compfluid.2019.104320), **Yong Cao**, Tetsuro Tamura and Hidenori Kawai, _Computers & Fluids_, 2020, 196, 104320.
 - [Investigation of wall pressures and surface flow patterns on a wall-mounted square cylinder using very high-resolution Cartesian mesh](https://doi.org/10.1016/j.jweia.2019.02.013), **Yong Cao**, Tetsuro Tamura and Hidenori Kawai, _Journal of Wind Engineering and Industrial Aerodynamics_, 2019, 188, 1-18.
 - [Aerodynamic characteristics of a rounded-corner square cylinder in shear flow at subcritical and supercritical Reynolds numbers](https://doi.org/10.1016/j.jfluidstructs.2018.07.012), **Yong Cao**, Tetsuro Tamura, _Journal of Fluids and Structures_, 2018, 82, 473-491.
