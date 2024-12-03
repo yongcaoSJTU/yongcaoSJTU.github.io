@@ -125,8 +125,11 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, J
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.10 - 2016.12*, Ph.D., Tokyo Institute of Technology (Japan), Environmental Science and Technology (minor: Wind-resistance of Structures)
+Thesis: LES study of aerodynamics of two-dimensional bluff bodies in crossflow at very high Reynolds numbers (advisor: Tetsuro Tamura)
+
+- *2011.09 - 2013.07*, M.S., Harbin Institute of Technology (China), Structural Engineering
+Thesis: Numerical study on flow control of flow around a circular cylinder using steady suction method (advisor: Hui Li, Wen-Li Chen)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
