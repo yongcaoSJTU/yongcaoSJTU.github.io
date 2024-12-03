@@ -29,12 +29,12 @@ Yong Cao, Associate Professor at Shanghai Jiao Tong University. My research inte
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2024</div><img src='images/small-scale_turbulence_generation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning](https://doi.org/10.1017/jfm.2024.521), _Journal of Fluid Mechanics_, 2024, 990, R1.
+[High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning](https://doi.org/10.1017/jfm.2024.521), _Journal of Fluid Mechanics_, 2024, 990, R1.
 
 Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 
 [**Introduction**]
-- This study proposed a new framework to generate the small-scale turbulence motions based on a generalized zero-shot transfer learning. 
+- This study proposes a novel super-resolution (or SR) framework for generating high-resolution turbulent boundary layer (TBL) flow from low-resolution inputs. The framework combines a super-resolution generative adversarial neural network (SRGAN) with down-sampling modules (DMs), integrating the residual of the continuity equation into the loss function. The framework iteratively applies the SRGAN and DM procedure to fully capture the energy cascade of multi-scale flow structures, collectively termed the SRGAN-based energy cascade reconstruction framework (EC-SRGAN). Despite being trained solely on turbulent channel flow data (via zero-shot transfer), EC-SRGAN exhibits remarkable generalization in predicting TBL small-scale velocity fields.
 </div>
 </div>
 
@@ -96,7 +96,7 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, J
 **Yong Cao**, Tetsuro Tamura
 
 [**Introduction**]
-- Large-eddy simulations were used to investigate unsteady flows around a wall-mounted hemisphere as the Reynolds number (Re, based on the diameter of the hemisphere D) increased from 7 × 104 to 7 × 105. Strong Re dependence was found to be present even for the flow around a wall-mounted obstacle after systematic examination of aerodynamic forces, local pressures, and flow structures. 
+- Large-eddy simulations were used to investigate unsteady flows around a wall-mounted hemisphere as the Reynolds number (Re, based on the diameter of the hemisphere D) increased from 7×10^4 to 7×10^5. Strong Re dependence was found to be present even for the flow around a wall-mounted obstacle after systematic examination of aerodynamic forces, local pressures, and flow structures. 
 </div>
 </div>
 
