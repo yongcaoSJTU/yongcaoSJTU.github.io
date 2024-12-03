@@ -47,7 +47,7 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/wind-turbine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement](https://doi.org/10.1016/j.apenergy.2023.121850),  _Applied Energy_, 2023, 351, 121850.
+[Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement](https://doi.org/10.1016/j.apenergy.2023.121850),  _Applied Energy_, 2023, 351, 121850.
 
 Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, Jiaqi Wang, Yan Bao, **Yong Cao** and Yijie Liu
 
@@ -69,7 +69,7 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2022</div><img src='images/wall-mounted_square.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Topological description of near-wall flows around a surface-mounted square cylinder at high Reynolds numbers](https://doi.org/10.1017/jfm.2021.1043), _Journal of Fluid Mechanics_, 2022, 933, A39.
+[Topological description of near-wall flows around a surface-mounted square cylinder at high Reynolds numbers](https://doi.org/10.1017/jfm.2021.1043), _Journal of Fluid Mechanics_, 2022, 933, A39.
 
 **Yong Cao**, Tetsuro Tamura, Dai Zhou, Yan Bao and Zhaolong Han
 
@@ -91,7 +91,7 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PoF 2020</div><img src='images/pof_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Large-eddy simulation study of Reynolds number effects on the flow around a wall-mounted hemisphere in a boundary layer](https://doi.org/10.1063/1.5142371), _Physics of Fluids_, 2020, 32, 025109. (Cover Paper & Featured)
+[Large-eddy simulation study of Reynolds number effects on the flow around a wall-mounted hemisphere in a boundary layer](https://doi.org/10.1063/1.5142371), _Physics of Fluids_, 2020, 32, 025109. (Cover Paper & Featured)
 
 **Yong Cao**, Tetsuro Tamura
 
