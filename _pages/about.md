@@ -44,7 +44,7 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - [Wake suppression of a cylinder immersed in turbulence using rotating rods](https://doi.org/10.1063/5.0177306). Baiyang Song, Yan Bao, Kai Zhang, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 36 (1), 015117.
 
 [**2023**]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/wind-turbine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/wind-turbine.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement](https://doi.org/10.1016/j.apenergy.2023.121850),  _Applied Energy_, 2023, 351, 121850.
@@ -66,7 +66,7 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, J
 - [Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis](https://doi.org/10.1016/j.jweia.2022.105284), Limin Kuang, Rui Zhang, Jie Su, Yixiao Shao, Kai Zhang, Yaoran Chen, Zhihao Zhang, Yu Tu, Dai Zhou, Zhaolong Han, Yan Bao and **Yong Cao**, _Journal of Wind Engineering and Industrial Aerodynamics_, 2023, 233, 105284.
 
 [**2022**]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2022</div><img src='images/wall-mounted_square.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2022</div><img src='images/wall-mounted_square.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Topological description of near-wall flows around a surface-mounted square cylinder at high Reynolds numbers](https://doi.org/10.1017/jfm.2021.1043), _Journal of Fluid Mechanics_, 2022, 933, A39.
@@ -88,7 +88,7 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou, Yaoran Chen, Zhaolong Han, Kai Zhang, J
 
 
 [**2021 and before**]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PoF 2020</div><img src='images/pof_cover.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PoF 2020</div><img src='images/pof_cover.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Large-eddy simulation study of Reynolds number effects on the flow around a wall-mounted hemisphere in a boundary layer](https://doi.org/10.1063/1.5142371), _Physics of Fluids_, 2020, 32, 025109. (Cover Paper & Featured)
