@@ -144,28 +144,28 @@ Thesis: Numerical study on flow control of flow around a circular cylinder using
 - *2022.05 - 2023.12*, Guest Editor of **Atmosphere**, with Y. C. He and Y. H. He, Special Issue on "Wind Gusts: Observations, Processes, and Predictions"
 - *2021.11 - 2023.08*, Guest Editor of **Mathematics**, with S. J. Laima, X. W. Jin and H. H. Ren, Special issue on "Advanced Mathematical Modeling and Numerical Solutions in Applied Mechanics and Engineering"
 - *Referee (Papers)*
-_Applied Energy_
-_Atmosphere_
-Building and Environment
-Canadian Journal of Civil Engineering
-Computers and Fluids
-Energy
-Engineering Applications of Computational Fluid Mechanics
-Flow, Turbulence and Combustion
-International Journal of Heat and Fluid Flow
-International Journal of Heat and Mass Transfer
-Journal of Aerospace
-Journal of Applied Fluid Mechanics
-Journal of Fluid Mechanics
-Journal of Fluids and Structures
-Journal of Marine Science and Engineering
-Journal of Mechanical Science and Technology
-Journal of Wind Engineering and Industrial Aerodynamics
-Ocean Engineering
-Physics of Fluids
-PLOS ONE
-PNAS Nexus
-Wind and Structures
+_Applied Energy,
+Atmosphere,
+Building and Environment,
+Canadian Journal of Civil Engineering,
+Computers and Fluids,
+Energy,
+Engineering Applications of Computational Fluid Mechanics,
+Flow, Turbulence and Combustion,
+International Journal of Heat and Fluid Flow,
+International Journal of Heat and Mass Transfer,
+Journal of Aerospace,
+Journal of Applied Fluid Mechanics,
+Journal of Fluid Mechanics,
+Journal of Fluids and Structures,
+Journal of Marine Science and Engineering,
+Journal of Mechanical Science and Technology,
+Journal of Wind Engineering and Industrial Aerodynamics,
+Ocean Engineering,
+Physics of Fluids,
+PLOS ONE,
+PNAS Nexus,
+Wind and Structures_
 
 # 📖 Teaching
 - Autumn 2023, Engineering Management, Systems Engineering (G)
