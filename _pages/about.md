@@ -174,4 +174,5 @@ Wind and Structures
 - Spring 2023, Civil Engineering, Uncover Secret of Super Engineering Secret (U)
 - Spring 2022, Civil Engineering, Wind-resistant Safety of Engineering Structures (G)
 - Spring 2021, Civil Engineering, Wind-resistant Safety of Engineering Structures (G)
+  <br>
 Note: U/G = undergraduate/graduate courses
