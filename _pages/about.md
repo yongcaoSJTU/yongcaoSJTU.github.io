@@ -24,6 +24,7 @@ I am also open to and actively seek international collaborations to further expa
 Please feel free to contact me: yongcao@sjtu.edu.cn
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 The first paper of master student Guoshuo Huang has been accepted by Physics of Fluids, entitled _Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers_.
 - *2024.11*: &nbsp;🎉🎉 Our work of generating small-scale turbulence is invited by Prof. George Karniadakis to give a speech at CRUNCH Seminar, Brown University.
  
 # 📝 Publications 
@@ -39,7 +40,7 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - This study proposes a novel super-resolution (or SR) framework for generating high-resolution turbulent boundary layer (TBL) flow from low-resolution inputs. The framework combines a super-resolution generative adversarial neural network (SRGAN) with down-sampling modules (DMs), integrating the residual of the continuity equation into the loss function. The framework iteratively applies the SRGAN and DM procedure to fully capture the energy cascade of multi-scale flow structures, collectively termed the SRGAN-based energy cascade reconstruction framework (EC-SRGAN). Despite being trained solely on turbulent channel flow data (via zero-shot transfer), EC-SRGAN exhibits remarkable generalization in predicting TBL small-scale velocity fields.
 </div>
 </div>
-
+- [Free-surface effects on the flow around two circular cylinders in tandem] (https://doi.org/10.1017/jfm.2024.1066). Feng Zhao, Rui Wang, Hongbo Zhu, Yong Cao, Yan Bao, Dai Zhou, Bin Cheng and Zhaolong Han, _Journal of Fluid Mechanics_. 2024, 1001, A7.
 - [Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill](https://doi.org/10.1016/j.jweia.2024.105910). Yujiang Shi, Tao Tao, Haokai Wu, Yaoran Chen, Zhaolong Han, Dai Zhou, Wenli Chen and **Yong Cao***, _Journal of Wind Engineering and Industrial Aerodynamics_, 2024, 254, 105910.
 - [A Physics-informed deep learning model to reconstruct turbulent wake from random sparse data](https://doi.org/10.1063/5.0212298). Peixing Xie, Rui Li, Yaoran Chen, Baiyang Song, Wenli Chen, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 2024, 36, 065145.
 - [Deep learning reconstruction of high-Reynolds-number turbulent flow field around a square cylinder based on limited sensors](https://doi.org/10.1016/j.oceaneng.2024.117857), Rui Li, Baiyang Song, Yaoran Chen, Xiaowei Jin, Dai Zhou, Zhaolong Han, Wen-Li Chen and **Yong Cao***, _Ocean Engineering_, 2024, 304, 117857.
