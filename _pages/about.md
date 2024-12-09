@@ -24,7 +24,7 @@ I am also open to and actively seek international collaborations to further expa
 Please feel free to contact me: yongcao@sjtu.edu.cn
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 The first paper of master student Guoshuo Huang has been accepted by Physics of Fluids, entitled _Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers_.
+- *2024.12*: &nbsp;🎉🎉 The first paper by the master student Guoshuo Huang has been accepted by _Physics of Fluids_, entitled "Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers". Congratulations!
 - *2024.11*: &nbsp;🎉🎉 Our work of generating small-scale turbulence is invited by Prof. George Karniadakis to give a speech at CRUNCH Seminar, Brown University.
  
 # 📝 Publications 
