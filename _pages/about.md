@@ -136,8 +136,10 @@ Thesis: LES study of aerodynamics of two-dimensional bluff bodies in crossflow a
 Thesis: Numerical study on flow control of flow around a circular cylinder using steady suction method (advisor: Hui Li, Wen-Li Chen)
 
 # 💬 Invited Talks
+- Yong Cao, "结构风荷载预测的气象-工程多尺度耦合模型," 第九届长三角地区结构工程青年学者学术沙龙, December 14, 2024. (大会报告)
 - Haokai Wu, Yong Cao, "Generation of small-scale turbulence," CRUNCH Seminar, Brown University, November 22, 2024. (invited talk)
 - Yong Cao, "Intelligent generation method of wall turbulence in meso-micro scale model," The 13rd National Conference of Structural Design and Reliability, October 25-27, 2024. (invited speech)
+- Yong Cao, "High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning," The 3rd International Symposium on Recent Advances in Vortex-induced Vibrations, September 20-23, 2024. (plenary speech)
 - Yong Cao, Dai Zhou, Zhaolong Han and Kai Zhang, "High-fidelity and intelligent simulation of wind fields and pressures on buildings," The 2023 International Workshop on The Numerical Simulation of Typhoons, Hanzhou, October 18, 2023. (invited speech)
 - Yong Cao, Tetsuro Tamura and Dai Zhou, "Analyses of local severe wind suction on a square-section cylinder by high-resolution simulation and conditional POD method," The 15th World Congress on Computational Mechanics (WCCM-XV) & 8th Asian Pacific Congress on Computational Mechanics (APCOM-VIII). Virtual, July 31-August 5, 2022.  (keynote in minisymposia)
 - Yong Cao, Zhaolong Han and Dai Zhou, "Key points and recent advances of offshore vertical-axis wind turbine," The 2021 Workshop on Offshore Renewable Energy, Dalian, July 11, 2021. (invited speech)
@@ -147,6 +149,10 @@ Thesis: Numerical study on flow control of flow around a circular cylinder using
 - *2024.05 - now*, Topical Advisory Panel for **Mathematics**
 - *2022.05 - 2023.12*, Guest Editor of **Atmosphere**, with Y. C. He and Y. H. He, Special Issue on "Wind Gusts: Observations, Processes, and Predictions"
 - *2021.11 - 2023.08*, Guest Editor of **Mathematics**, with S. J. Laima, X. W. Jin and H. H. Ren, Special issue on "Advanced Mathematical Modeling and Numerical Solutions in Applied Mechanics and Engineering"
+- **Conference services**:
+- *2024.08.27*, Session Moderator for Oral Presentation Session **Vortex dynamics**, the 26th International Conference of the Theoretical and Applied Mechanics (ICTAM 2024), with Melissa Green (University of Minnesota)
+- *2024.08.27*, Session Moderator for Short Oral Presentation Session **Vortex dynamics**, the 26th International Conference of the Theoretical and Applied Mechanics (ICTAM 2024), with Melissa Green (University of Minnesota)
+- *2023.08.29*, Chairperson for Oral Presentation Session **Bluff body aerodynamics**, 16th International Conference on Wind Engineering (ICWE)
 - **Referee (Papers)**:
 _Applied Energy,
 Atmosphere,
