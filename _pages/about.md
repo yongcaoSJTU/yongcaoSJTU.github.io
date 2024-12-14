@@ -157,6 +157,7 @@ Thesis: Numerical study on flow control of flow around a circular cylinder using
 - *2023.08.29*, Chairperson for Oral Presentation Session **Bluff body aerodynamics**, 16th International Conference on Wind Engineering (ICWE)
 
 **Referee (Papers)**:
+
 _Applied Energy,
 Atmosphere,
 Building and Environment,
