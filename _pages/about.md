@@ -158,7 +158,7 @@ Thesis: Numerical study on flow control of flow around a circular cylinder using
 
 **Referee (Papers)**:
 
-_Applied Energy,
+- _Applied Energy,
 Atmosphere,
 Building and Environment,
 Canadian Journal of Civil Engineering,
