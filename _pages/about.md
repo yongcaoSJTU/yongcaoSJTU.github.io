@@ -77,20 +77,20 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou*, Yaoran Chen, Zhaolong Han, Kai Zhang, 
 
 [Topological description of near-wall flows around a surface-mounted square cylinder at high Reynolds numbers](https://doi.org/10.1017/jfm.2021.1043), _Journal of Fluid Mechanics_, 2022, 933, A39.
 
-**Yong Cao**, Tetsuro Tamura, Dai Zhou, Yan Bao and Zhaolong Han
+**Yong Cao***, Tetsuro Tamura*, Dai Zhou, Yan Bao and Zhaolong Han
 
 [**Introduction**]
 - This study topologically describes near-wall flows around a surface-mounted cylinder at a high Reynolds number and in a very thick boundary layer, which were partially measured or technically approximated from the literature. The high-resolution simulations and critical-point theory are applied for complete and rational flow construction.
 </div>
 </div>
 
-- [Wake dynamics and hydrodynamic forces of a circular cylinder beneath a free surface](https://doi.org/10.1016/j.oceaneng.2022.112669), Feng Zhao, Rui Wang, Hongbo Zhu, **Yong Cao**, Yan Bao, Dai Zhou and Zhaolong Han, _Ocean Engineering_, 2022, 265, 112669.
-- [Vortex-induced vibrations of two rigidly coupled circular cylinders in tandem arrangement](https://doi.org/10.1016/j.oceaneng.2022.112316), Huan Ping, **Yong Cao**, Kai Zhang, Zhaolong Han, Dai Zhou, Hongbo Zhu and Yan Bao, _Ocean Engineering_, 2022, 263, 112316.
-- [Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement](https://doi.org/10.1016/j.oceaneng.2022.111385), Yaoran Chen, Limin Kuang, Jie Su, Dai Zhou, **Yong Cao**, Hao Chen, Zhaolong Han, Yongsheng Zhao and Shixiao Fu, _Ocean Engineering_, 2022, 254, 111385.
-- [Investigation of local severe suction on the side walls of a high-rise building by standard, spectral and conditional POD](https://doi.org/10.1016/j.buildenv.2022.109047), **Yong Cao**, Xu Liu, Dai Zhou and Hehe Ren, _Building and Environment_, 2022, 217, 109047.
-- [Wind peak pressures on a square-section cylinder: Flow mechanism and standard/conditional POD analyses](https://doi.org/10.1016/j.jweia.2022.104918), **Yong Cao**, Huan Ping, Tetsuro Tamura and Dai Zhou, _Journal of Wind Engineering and Industrial Aerodynamics_, 2022, 222, 104918.
-- [The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method](https://doi.org/10.1016/j.energy.2021.122456), Zhikun Dong, Yaoran Chen, Dai Zhou, Jie Su, Zhaolong Han, **Yong Cao**, Yan Bao, Feng Zhao, Rui Wang, Yongsheng Zhao and Yuwang Xu, _Energy_, 2022, 239, 122456.
-- [Direct numerical simulation of flow over a cylinder immersed in the grid-generated turbulence](https://doi.org/10.1063/5.0072730), Baiyang Song, Huan Ping, Hongbo Zhu, Dai Zhou, Yan Bao, **Yong Cao** and Zhaolong Han, _Physics of Fluids_, 2022, 34(1), 015109.
+- [Wake dynamics and hydrodynamic forces of a circular cylinder beneath a free surface](https://doi.org/10.1016/j.oceaneng.2022.112669), Feng Zhao, Rui Wang, Hongbo Zhu, **Yong Cao**, Yan Bao*, Dai Zhou and Zhaolong Han, _Ocean Engineering_, 2022, 265, 112669.
+- [Vortex-induced vibrations of two rigidly coupled circular cylinders in tandem arrangement](https://doi.org/10.1016/j.oceaneng.2022.112316), Huan Ping, **Yong Cao**, Kai Zhang, Zhaolong Han, Dai Zhou*, Hongbo Zhu* and Yan Bao, _Ocean Engineering_, 2022, 263, 112316.
+- [Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement](https://doi.org/10.1016/j.oceaneng.2022.111385), Yaoran Chen, Limin Kuang, Jie Su, Dai Zhou, **Yong Cao**, Hao Chen, Zhaolong Han*, Yongsheng Zhao and Shixiao Fu, _Ocean Engineering_, 2022, 254, 111385.
+- [Investigation of local severe suction on the side walls of a high-rise building by standard, spectral and conditional POD](https://doi.org/10.1016/j.buildenv.2022.109047), **Yong Cao***, Xu Liu, Dai Zhou and Hehe Ren, _Building and Environment_, 2022, 217, 109047.
+- [Wind peak pressures on a square-section cylinder: Flow mechanism and standard/conditional POD analyses](https://doi.org/10.1016/j.jweia.2022.104918), **Yong Cao***, Huan Ping, Tetsuro Tamura and Dai Zhou*, _Journal of Wind Engineering and Industrial Aerodynamics_, 2022, 222, 104918.
+- [The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method](https://doi.org/10.1016/j.energy.2021.122456), Zhikun Dong, Yaoran Chen, Dai Zhou*, Jie Su, Zhaolong Han, **Yong Cao**, Yan Bao, Feng Zhao, Rui Wang, Yongsheng Zhao and Yuwang Xu, _Energy_, 2022, 239, 122456.
+- [Direct numerical simulation of flow over a cylinder immersed in the grid-generated turbulence](https://doi.org/10.1063/5.0072730), Baiyang Song, Huan Ping, Hongbo Zhu, Dai Zhou*, Yan Bao, **Yong Cao** and Zhaolong Han, _Physics of Fluids_, 2022, 34(1), 015109.
 
 
 [**2021 and before**]
