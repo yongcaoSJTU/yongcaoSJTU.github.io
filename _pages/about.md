@@ -99,24 +99,24 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou*, Yaoran Chen, Zhaolong Han, Kai Zhang, 
 
 [Large-eddy simulation study of Reynolds number effects on the flow around a wall-mounted hemisphere in a boundary layer](https://doi.org/10.1063/1.5142371), _Physics of Fluids_, 2020, 32, 025109. (Cover Paper & Featured)
 
-**Yong Cao**, Tetsuro Tamura
+**Yong Cao***, Tetsuro Tamura
 
 [**Introduction**]
 - Large-eddy simulations were used to investigate unsteady flows around a wall-mounted hemisphere as the Reynolds number (Re, based on the diameter of the hemisphere D) increased from 7×10^4 to 7×10^5. Strong Re dependence was found to be present even for the flow around a wall-mounted obstacle after systematic examination of aerodynamic forces, local pressures, and flow structures. 
 </div>
 </div>
 
-- [Large-eddy simulations of flow past a circular cylinder near a free surface](https://doi.org/10.1063/5.0068193), Feng Zhao, Rui Wang, Hongbo Zhu, Huang Ping, Yan Bao, Dai Zhou, **Yong Cao** and Hongyu Cui, _Physics of Fluids_, 2021, 33 (11), 115108.
-- [Comparison of hexahedral, tetrahedral and polyhedral cells for reproducing the wind field around an isolated building by LES](https://doi.org/10.1016/j.buildenv.2021.107717), Wei Wang, **Yong Cao** and Tsubasa Okaze, _Building and Environment_, 2021, 195, 107717.
-- [Low-frequency unsteadiness in the flow around a square cylinder with critical angle of 14° at the Reynolds number of 2.2×104](https://doi.org/10.1016/j.jfluidstructs.2020.103087), **Yong Cao**, Tetsuro Tamura, _Journal of Fluids and Structures_, 2020, 97, 103087.
-- [Spanwise resolution requirements for the simulation of high-Reynolds-number flows past a square cylinder](https://doi.org/10.1016/j.compfluid.2019.104320), **Yong Cao**, Tetsuro Tamura and Hidenori Kawai, _Computers & Fluids_, 2020, 196, 104320.
-- [Investigation of wall pressures and surface flow patterns on a wall-mounted square cylinder using very high-resolution Cartesian mesh](https://doi.org/10.1016/j.jweia.2019.02.013), **Yong Cao**, Tetsuro Tamura and Hidenori Kawai, _Journal of Wind Engineering and Industrial Aerodynamics_, 2019, 188, 1-18.
-- [Aerodynamic characteristics of a rounded-corner square cylinder in shear flow at subcritical and supercritical Reynolds numbers](https://doi.org/10.1016/j.jfluidstructs.2018.07.012), **Yong Cao**, Tetsuro Tamura, _Journal of Fluids and Structures_, 2018, 82, 473-491.
-- [Shear effects on flows past a square cylinder with rounded corners at Re= 2.2× 104](https://doi.org/10.1016/j.jweia.2017.12.025), **Yong Cao**, Tetsuro Tamura, _Journal of Wind Engineering and Industrial Aerodynamics_, 2018, 174, 119-132.
-- [Supercritical flows past a square cylinder with rounded corners](https://doi.org/10.1063/1.4998739), **Yong Cao**, Tetsuro Tamura, _Physics of Fluids_, 2017, 29, 085110.
-- [Large-eddy simulations of flow past a square cylinder using structured and unstructured grids](https://doi.org/10.1016/j.compfluid.2016.07.013), **Yong Cao**, Tetsuro Tamura, _Computers & Fluids_, 2016, 137, 36-54.
-- [Numerical investigation of steady suction control of flow around a circular cylinder](https://doi.org/10.1016/j.jfluidstructs.2015.09.002), Wen-Li Chen, **Yong Cao**, Hui Li, Hui Hu, _Journal of Fluids and Structures_, 2015, 59, 22-36.
-- [Numerical investigations into effects of three-dimensional wake patterns on unsteady aerodynamic characteristics of a circular cylinder at Re= 1.3× 105](https://doi.org/10.1016/j.jfluidstructs.2015.10.001), **Yong Cao**, Tetsuro Tamura, _Journal of Fluids and Structures_, 2015, 59, 351-369.
+- [Large-eddy simulations of flow past a circular cylinder near a free surface](https://doi.org/10.1063/5.0068193), Feng Zhao, Rui Wang, Hongbo Zhu, Huang Ping, Yan Bao*, Dai Zhou, **Yong Cao** and Hongyu Cui, _Physics of Fluids_, 2021, 33 (11), 115108.
+- [Comparison of hexahedral, tetrahedral and polyhedral cells for reproducing the wind field around an isolated building by LES](https://doi.org/10.1016/j.buildenv.2021.107717), Wei Wang*, **Yong Cao** and Tsubasa Okaze, _Building and Environment_, 2021, 195, 107717.
+- [Low-frequency unsteadiness in the flow around a square cylinder with critical angle of 14° at the Reynolds number of 2.2×104](https://doi.org/10.1016/j.jfluidstructs.2020.103087), **Yong Cao***, Tetsuro Tamura, _Journal of Fluids and Structures_, 2020, 97, 103087.
+- [Spanwise resolution requirements for the simulation of high-Reynolds-number flows past a square cylinder](https://doi.org/10.1016/j.compfluid.2019.104320), **Yong Cao***, Tetsuro Tamura and Hidenori Kawai, _Computers & Fluids_, 2020, 196, 104320.
+- [Investigation of wall pressures and surface flow patterns on a wall-mounted square cylinder using very high-resolution Cartesian mesh](https://doi.org/10.1016/j.jweia.2019.02.013), **Yong Cao***, Tetsuro Tamura and Hidenori Kawai, _Journal of Wind Engineering and Industrial Aerodynamics_, 2019, 188, 1-18.
+- [Aerodynamic characteristics of a rounded-corner square cylinder in shear flow at subcritical and supercritical Reynolds numbers](https://doi.org/10.1016/j.jfluidstructs.2018.07.012), **Yong Cao***, Tetsuro Tamura, _Journal of Fluids and Structures_, 2018, 82, 473-491.
+- [Shear effects on flows past a square cylinder with rounded corners at Re= 2.2× 104](https://doi.org/10.1016/j.jweia.2017.12.025), **Yong Cao***, Tetsuro Tamura, _Journal of Wind Engineering and Industrial Aerodynamics_, 2018, 174, 119-132.
+- [Supercritical flows past a square cylinder with rounded corners](https://doi.org/10.1063/1.4998739), **Yong Cao***, Tetsuro Tamura, _Physics of Fluids_, 2017, 29, 085110.
+- [Large-eddy simulations of flow past a square cylinder using structured and unstructured grids](https://doi.org/10.1016/j.compfluid.2016.07.013), **Yong Cao***, Tetsuro Tamura, _Computers & Fluids_, 2016, 137, 36-54.
+- [Numerical investigation of steady suction control of flow around a circular cylinder](https://doi.org/10.1016/j.jfluidstructs.2015.09.002), Wen-Li Chen*, **Yong Cao**, Hui Li, Hui Hu, _Journal of Fluids and Structures_, 2015, 59, 22-36.
+- [Numerical investigations into effects of three-dimensional wake patterns on unsteady aerodynamic characteristics of a circular cylinder at Re= 1.3× 105](https://doi.org/10.1016/j.jfluidstructs.2015.10.001), **Yong Cao***, Tetsuro Tamura, _Journal of Fluids and Structures_, 2015, 59, 351-369.
 
 
 # 🎖 Honors and Awards
