@@ -85,7 +85,7 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou*, Yaoran Chen, Zhaolong Han, Kai Zhang, 
 </div>
 
 - [Wake dynamics and hydrodynamic forces of a circular cylinder beneath a free surface](https://doi.org/10.1016/j.oceaneng.2022.112669), Feng Zhao, Rui Wang, Hongbo Zhu, **Yong Cao**, Yan Bao*, Dai Zhou and Zhaolong Han, _Ocean Engineering_, 2022, 265, 112669.
-- [Vortex-induced vibrations of two rigidly coupled circular cylinders in tandem arrangement](https://doi.org/10.1016/j.oceaneng.2022.112316), Huan Ping, **Yong Cao**, Kai Zhang, Zhaolong Han, Dai Zhou*, Hongbo Zhu* and Yan Bao, _Ocean Engineering_, 2022, 263, 112316.
+- [Vortex-induced vibrations of two rigidly coupled circular cylinders in tandem arrangement](https://doi.org/10.1016/j.oceaneng.2022.112316), Huan Ping, **Yong Cao**, Kai Zhang, Zhaolong Han, Dai Zhou\*, Hongbo Zhu* and Yan Bao, _Ocean Engineering_, 2022, 263, 112316.
 - [Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement](https://doi.org/10.1016/j.oceaneng.2022.111385), Yaoran Chen, Limin Kuang, Jie Su, Dai Zhou, **Yong Cao**, Hao Chen, Zhaolong Han*, Yongsheng Zhao and Shixiao Fu, _Ocean Engineering_, 2022, 254, 111385.
 - [Investigation of local severe suction on the side walls of a high-rise building by standard, spectral and conditional POD](https://doi.org/10.1016/j.buildenv.2022.109047), **Yong Cao***, Xu Liu, Dai Zhou and Hehe Ren, _Building and Environment_, 2022, 217, 109047.
 - [Wind peak pressures on a square-section cylinder: Flow mechanism and standard/conditional POD analyses](https://doi.org/10.1016/j.jweia.2022.104918), **Yong Cao***, Huan Ping, Tetsuro Tamura and Dai Zhou*, _Journal of Wind Engineering and Industrial Aerodynamics_, 2022, 222, 104918.
