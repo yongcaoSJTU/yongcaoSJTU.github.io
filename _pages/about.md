@@ -77,7 +77,7 @@ Limin Kuang, Hiroshi Katsuchi, Dai Zhou*, Yaoran Chen, Zhaolong Han, Kai Zhang, 
 
 [Topological description of near-wall flows around a surface-mounted square cylinder at high Reynolds numbers](https://doi.org/10.1017/jfm.2021.1043), _Journal of Fluid Mechanics_, 2022, 933, A39.
 
-**Yong Cao***, Tetsuro Tamura*, Dai Zhou, Yan Bao and Zhaolong Han
+**Yong Cao***, Tetsuro Tamura, Dai Zhou*, Yan Bao and Zhaolong Han
 
 [**Introduction**]
 - This study topologically describes near-wall flows around a surface-mounted cylinder at a high Reynolds number and in a very thick boundary layer, which were partially measured or technically approximated from the literature. The high-resolution simulations and critical-point theory are applied for complete and rational flow construction.
