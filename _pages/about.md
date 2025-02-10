@@ -46,6 +46,8 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - [Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill](https://doi.org/10.1016/j.jweia.2024.105910). Yujiang Shi, Tao Tao, Haokai Wu, Yaoran Chen, Zhaolong Han, Dai Zhou, Wenli Chen and **Yong Cao***, _Journal of Wind Engineering and Industrial Aerodynamics_, 2024, 254, 105910.
 - [A Physics-informed deep learning model to reconstruct turbulent wake from random sparse data](https://doi.org/10.1063/5.0212298). Peixing Xie, Rui Li, Yaoran Chen, Baiyang Song, Wenli Chen, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 2024, 36, 065145.
 - [Deep learning reconstruction of high-Reynolds-number turbulent flow field around a square cylinder based on limited sensors](https://doi.org/10.1016/j.oceaneng.2024.117857), Rui Li, Baiyang Song, Yaoran Chen, Xiaowei Jin, Dai Zhou, Zhaolong Han, Wen-Li Chen and **Yong Cao***, _Ocean Engineering_, 2024, 304, 117857.
+- [An optimization framework for wind farm layout design using CFD-based Kriging model](https://doi.org/10.1016/j.oceaneng.2023.116644), Zhenfan Wang, Yu Tu, Kai Zhang, Zhaolong Han, Yong Cao, and Dai Zhou, _Ocean Engineering_, 2024, 293, 116644.
+- [WindFix: Harnessing the power of self-supervised learning for versatile imputation of offshore wind speed time series](https://doi.org/10.1016/j.energy.2023.128995), Yaoran Chen, Candong Cai, Leilei Cao, Dan Zhang, Limin Kuang, Yan Peng, Huayan Pu, Chuhan Wu, Dai Zhou, and Yong Cao, _Energy_, 2024, 287, 128995.
 - [Wake suppression of a cylinder immersed in turbulence using rotating rods](https://doi.org/10.1063/5.0177306). Baiyang Song, Yan Bao, Kai Zhang, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 36 (1), 015117.
 
 [**2023**]
