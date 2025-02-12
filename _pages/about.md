@@ -35,7 +35,7 @@ Please feel free to contact me: yongcao@sjtu.edu.cn
 - [Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers](https://doi.org/10.1063/5.0244352). Guoshuo Huang, Baiyang Song, Haokai Wu, Viet Dung Duong, Dai Zhou, and **Yong Cao***, _Physics of Fluids_, 2025, 37, 015119.
   
 [**2024**]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/small-scale_turbulence_generation.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/small-scale_turbulence_generation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning](https://doi.org/10.1017/jfm.2024.521), _Journal of Fluid Mechanics_, 2024, 990, R1.
