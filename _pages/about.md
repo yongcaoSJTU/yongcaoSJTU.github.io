@@ -28,7 +28,10 @@ Please feel free to contact me: yongcao@sjtu.edu.cn
 - *2024.11*: &nbsp;🎉🎉 Our work of generating small-scale turbulence is invited by Prof. George Karniadakis to give a speech at CRUNCH Seminar, Brown University.
  
 # 📝 Publications 
-
+[**2025**]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/wind-turbine.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - [Utility of high-order scheme for unsteady flow simulations: Comparison with second-order tool](https://doi.org/10.1016/j.joes.2025.01.002). Peng Jiang, Yichen Huang, **Yong Cao**, Shijun Liao, and Bin Xie*, _Journal of Ocean Engineering and Science_, 2025 (in press)
 - [Multi-scale boundary-enhanced diffusion network for high-resolution sea surface height reconstruction](https://doi.org/10.1063/5.0250822). Xiaowei Li, Na Tao, Dan Zhang, Wenhu Liu, Yan Peng, **Yong Cao**, and Yaoran Chen*, _Physics of Fluids_, 2025, 37, 026610.
 - [Aerodynamic characteristics of a surface mounted prism of small aspect ratio immersed in atmospheric boundary layer](https://doi.org/10.1063/5.0244832). Baiyang Song, **Yong Cao**, Redili Yushan, and Dai Zhou*, _Physics of Fluids_, 2025, 37, 015129. 
