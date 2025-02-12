@@ -29,7 +29,7 @@ Please feel free to contact me: yongcao@sjtu.edu.cn
  
 # 📝 Publications 
 [**2025**]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/wind-turbine.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/small-scale_turbulence_generation.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - [Utility of high-order scheme for unsteady flow simulations: Comparison with second-order tool](https://doi.org/10.1016/j.joes.2025.01.002). Peng Jiang, Yichen Huang, **Yong Cao**, Shijun Liao, and Bin Xie*, _Journal of Ocean Engineering and Science_, 2025 (in press)
