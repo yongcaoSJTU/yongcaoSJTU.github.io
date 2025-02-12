@@ -32,6 +32,12 @@ Please feel free to contact me: yongcao@sjtu.edu.cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2024</div><img src='images/small-scale_turbulence_generation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+- [Utility of high-order scheme for unsteady flow simulations: Comparison with second-order tool](https://doi.org/10.1016/j.joes.2025.01.002). Peng Jiang, Yichen Huang, **Yong Cao**, Shijun Liao, and Bin Xie*, _Journal of Ocean Engineering and Science_, 2025 (in press)
+- [Multi-scale boundary-enhanced diffusion network for high-resolution sea surface height reconstruction](https://doi.org/10.1063/5.0250822). Xiaowei Li, Na Tao, Dan Zhang, Wenhu Liu, Yan Peng, **Yong Cao**, and Yaoran Chen*, _Physics of Fluids_, 2025, 37, 026610.
+- [Aerodynamic characteristics of a surface mounted prism of small aspect ratio immersed in atmospheric boundary layer](https://doi.org/10.1063/5.0244832). Baiyang Song, **Yong Cao**, Redili Yushan, and Dai Zhou*, _Physics of Fluids_, 2025, 37, 015129. 
+- [Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers](https://doi.org/10.1063/5.0244352). Guoshuo Huang, Baiyang Song, Haokai Wu, Viet Dung Duong, Dai Zhou, and **Yong Cao***, _Physics of Fluids_, 2025, 37, 015119.
+  
+[**2024**]
 [High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning](https://doi.org/10.1017/jfm.2024.521), _Journal of Fluid Mechanics_, 2024, 990, R1.
 
 Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
@@ -40,8 +46,7 @@ Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
 - This study proposes a novel super-resolution (or SR) framework for generating high-resolution turbulent boundary layer (TBL) flow from low-resolution inputs. The framework combines a super-resolution generative adversarial neural network (SRGAN) with down-sampling modules (DMs), integrating the residual of the continuity equation into the loss function. The framework iteratively applies the SRGAN and DM procedure to fully capture the energy cascade of multi-scale flow structures, collectively termed the SRGAN-based energy cascade reconstruction framework (EC-SRGAN). Despite being trained solely on turbulent channel flow data (via zero-shot transfer), EC-SRGAN exhibits remarkable generalization in predicting TBL small-scale velocity fields.
 </div>
 </div>
-- [Aerodynamic characteristics of a surface mounted prism of small aspect ratio immersed in atmospheric boundary layer](https://doi.org/10.1063/5.0244832). Baiyang Song, **Yong Cao**, Redili Yushan, and Dai Zhou*, _Physics of Fluids_, 2025, 37, 015129. 
-- [Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers](https://doi.org/10.1063/5.0244352). Guoshuo Huang, Baiyang Song, Haokai Wu, Viet Dung Duong, Dai Zhou, and **Yong Cao***, _Physics of Fluids_, 2025, 37, 015119.
+
 - [Free-surface effects on the flow around two circular cylinders in tandem](https://doi.org/10.1017/jfm.2024.1066). Feng Zhao, Rui Wang, Hongbo Zhu, **Yong Cao**, Yan Bao*, Dai Zhou, Bin Cheng and Zhaolong Han, _Journal of Fluid Mechanics_, 2024, 1001, A7.
 - [Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill](https://doi.org/10.1016/j.jweia.2024.105910). Yujiang Shi, Tao Tao, Haokai Wu, Yaoran Chen, Zhaolong Han, Dai Zhou, Wenli Chen and **Yong Cao***, _Journal of Wind Engineering and Industrial Aerodynamics_, 2024, 254, 105910.
 - [A Physics-informed deep learning model to reconstruct turbulent wake from random sparse data](https://doi.org/10.1063/5.0212298). Peixing Xie, Rui Li, Yaoran Chen, Baiyang Song, Wenli Chen, Dai Zhou and **Yong Cao***, _Physics of Fluids_, 2024, 36, 065145.
