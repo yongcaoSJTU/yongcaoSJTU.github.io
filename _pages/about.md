@@ -29,15 +29,15 @@ Please feel free to contact me: yongcao@sjtu.edu.cn
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2024</div><img src='images/small-scale_turbulence_generation.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 - [Utility of high-order scheme for unsteady flow simulations: Comparison with second-order tool](https://doi.org/10.1016/j.joes.2025.01.002). Peng Jiang, Yichen Huang, **Yong Cao**, Shijun Liao, and Bin Xie*, _Journal of Ocean Engineering and Science_, 2025 (in press)
 - [Multi-scale boundary-enhanced diffusion network for high-resolution sea surface height reconstruction](https://doi.org/10.1063/5.0250822). Xiaowei Li, Na Tao, Dan Zhang, Wenhu Liu, Yan Peng, **Yong Cao**, and Yaoran Chen*, _Physics of Fluids_, 2025, 37, 026610.
 - [Aerodynamic characteristics of a surface mounted prism of small aspect ratio immersed in atmospheric boundary layer](https://doi.org/10.1063/5.0244832). Baiyang Song, **Yong Cao**, Redili Yushan, and Dai Zhou*, _Physics of Fluids_, 2025, 37, 015129. 
 - [Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers](https://doi.org/10.1063/5.0244352). Guoshuo Huang, Baiyang Song, Haokai Wu, Viet Dung Duong, Dai Zhou, and **Yong Cao***, _Physics of Fluids_, 2025, 37, 015119.
   
 [**2024**]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Energy 2023</div><img src='images/wind-turbine.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning](https://doi.org/10.1017/jfm.2024.521), _Journal of Fluid Mechanics_, 2024, 990, R1.
 
 Haokai Wu, Kai Zhang, Dai Zhou, Wenli Chen, Zhaolong Han, **Yong Cao***
