@@ -24,6 +24,8 @@ I am also open to and actively seek international collaborations to further expa
 Please feel free to contact me: yongcao@sjtu.edu.cn
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 The paper about advection scheme effects on WRF-LES has been accepted by _Wind and Structures_, entitled ["Advection scheme effects on large-eddy simulation of separated turbulent flows past a three-dimensional hill in the weather research and forecasting model"](in press). Congratulations!
+- *2025.11*: &nbsp;🎉🎉 The paper by the PhD student Haokai Wu has been accepted by _Journal of Fluid Mechanics_, entitled ["Generalizable super-resolution turbulence reconstruction from minimal training data"](in press). Congratulations!
 - *2024.12*: &nbsp;🎉🎉 The first paper by the master student Guoshuo Huang has been published _Physics of Fluids_, entitled ["Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers"](https://doi.org/10.1063/5.0244352). Congratulations!
 - *2024.11*: &nbsp;🎉🎉 Our work of generating small-scale turbulence is invited by Prof. George Karniadakis to give a speech at CRUNCH Seminar, Brown University.
  
