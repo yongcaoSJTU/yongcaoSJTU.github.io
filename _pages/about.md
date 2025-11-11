@@ -31,7 +31,7 @@ Please feel free to contact me: yongcao@sjtu.edu.cn
 # 📝 Publications 
 [**2025**]
 - [Generalizable super-resolution turbulence reconstruction from minimal training data](https://arxiv.org/pdf/2511.02604). Wu Haokai, **Cao Yong***, Chen Yaoran, Laima Shujin, Chen Wenli, Zhou Dai, Li Hui (2025). _Journal of Fluid Mechanics_. (in press)
-- [Spanwise resolution effects on flow simulations around a square cylinder at the critical angle](). **Yong Cao***, **Tetsuro Tamura** (2025). _Physics of Fluids_, 37, 095146.
+- [Spanwise resolution effects on flow simulations around a square cylinder at the critical angle](https://doi.org/10.1063/5.0289904). **Yong Cao***, **Tetsuro Tamura** (2025). _Physics of Fluids_, 37, 095146.
 - [A pattern-constrained deep learning model for urban canopy turbulence reconstruction from sparse sensor data](https://doi.org/10.1016/j.buildenv.2025.113535). **Yong Cao**, Peixing Xie*, Guoshuo Huang, Wei Wang, Wenli Chen, Gang Hu, Shuyang Cao (2025). _Building and Environment_, 285(C), 113535.
 - [Utility of high-order scheme for unsteady flow simulations: Comparison with second-order tool](https://doi.org/10.1016/j.joes.2025.01.002). Peng Jiang, Yichen Huang, **Yong Cao**, Shijun Liao, and Bin Xie*, _Journal of Ocean Engineering and Science_, 2025, 10(5), 774-787.
 - [Multi-scale boundary-enhanced diffusion network for high-resolution sea surface height reconstruction](https://doi.org/10.1063/5.0250822). Xiaowei Li, Na Tao, Dan Zhang, Wenhu Liu, Yan Peng, **Yong Cao**, and Yaoran Chen*, _Physics of Fluids_, 2025, 37, 026610.
