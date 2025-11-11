@@ -26,12 +26,14 @@ Please feel free to contact me: yongcao@sjtu.edu.cn
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 The paper about advection scheme effects on WRF-LES has been accepted by _Wind and Structures_, entitled ["Advection scheme effects on large-eddy simulation of separated turbulent flows past a three-dimensional hill in the weather research and forecasting model"](in press). Congratulations!
 - *2025.11*: &nbsp;🎉🎉 The paper by the PhD student Haokai Wu has been accepted by _Journal of Fluid Mechanics_, entitled ["Generalizable super-resolution turbulence reconstruction from minimal training data"](in press). Congratulations!
-- *2024.12*: &nbsp;🎉🎉 The first paper by the master student Guoshuo Huang has been published _Physics of Fluids_, entitled ["Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers"](https://doi.org/10.1063/5.0244352). Congratulations!
 - *2024.11*: &nbsp;🎉🎉 Our work of generating small-scale turbulence is invited by Prof. George Karniadakis to give a speech at CRUNCH Seminar, Brown University.
  
 # 📝 Publications 
 [**2025**]
-- [Utility of high-order scheme for unsteady flow simulations: Comparison with second-order tool](https://doi.org/10.1016/j.joes.2025.01.002). Peng Jiang, Yichen Huang, **Yong Cao**, Shijun Liao, and Bin Xie*, _Journal of Ocean Engineering and Science_, 2025 (in press)
+- [Generalizable super-resolution turbulence reconstruction from minimal training data](https://arxiv.org/pdf/2511.02604). Wu Haokai, **Cao Yong***, Chen Yaoran, Laima Shujin, Chen Wenli, Zhou Dai, Li Hui (2025). _Journal of Fluid Mechanics_. (in press)
+- [Spanwise resolution effects on flow simulations around a square cylinder at the critical angle](). **Yong Cao***, **Tetsuro Tamura** (2025). _Physics of Fluids_, 37, 095146.
+- [A pattern-constrained deep learning model for urban canopy turbulence reconstruction from sparse sensor data](https://doi.org/10.1016/j.buildenv.2025.113535). **Yong Cao**, Peixing Xie*, Guoshuo Huang, Wei Wang, Wenli Chen, Gang Hu, Shuyang Cao (2025). _Building and Environment_, 285(C), 113535.
+- [Utility of high-order scheme for unsteady flow simulations: Comparison with second-order tool](https://doi.org/10.1016/j.joes.2025.01.002). Peng Jiang, Yichen Huang, **Yong Cao**, Shijun Liao, and Bin Xie*, _Journal of Ocean Engineering and Science_, 2025, 10(5), 774-787.
 - [Multi-scale boundary-enhanced diffusion network for high-resolution sea surface height reconstruction](https://doi.org/10.1063/5.0250822). Xiaowei Li, Na Tao, Dan Zhang, Wenhu Liu, Yan Peng, **Yong Cao**, and Yaoran Chen*, _Physics of Fluids_, 2025, 37, 026610.
 - [Aerodynamic characteristics of a surface mounted prism of small aspect ratio immersed in atmospheric boundary layer](https://doi.org/10.1063/5.0244832). Baiyang Song, **Yong Cao**, Redili Yushan, and Dai Zhou*, _Physics of Fluids_, 2025, 37, 015129. 
 - [Aerodynamic forces and flows around a wall-mounted body in typhoon boundary layers](https://doi.org/10.1063/5.0244352). Guoshuo Huang, Baiyang Song, Haokai Wu, Viet Dung Duong, Dai Zhou, and **Yong Cao***, _Physics of Fluids_, 2025, 37, 015119.
@@ -145,6 +147,7 @@ Thesis: LES study of aerodynamics of two-dimensional bluff bodies in crossflow a
 Thesis: Numerical study on flow control of flow around a circular cylinder using steady suction method (advisor: Hui Li, Wen-Li Chen)
 
 # 💬 Invited Talks
+- Yong Cao, "基于移动边界条件的柔性板流固耦合机器学习时空预测模型," 能源工程中的流固耦合前沿问题研讨会, November 2, 2025. (invited talk)
 - Yong Cao, "结构风荷载预测的气象-工程多尺度耦合模型," 第九届长三角地区结构工程青年学者学术沙龙, December 14, 2024. (大会报告)
 - Haokai Wu, Yong Cao, "Generation of small-scale turbulence," CRUNCH Seminar, Brown University, November 22, 2024. (invited talk)
 - Yong Cao, "Intelligent generation method of wall turbulence in meso-micro scale model," The 13rd National Conference of Structural Design and Reliability, October 25-27, 2024. (invited speech)
